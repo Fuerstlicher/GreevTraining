@@ -7,13 +7,13 @@ The term "reach" refers to the ability to perform attacks at a greater distance 
 
 The functionality of "Reach" generally involves modifying the game code to override the usual restrictions on attack range. This allows players to hit enemies with extremely high precision and attack from a greater distance. As a result, players can reach and attack enemies without putting themselves in danger, which can affect the fairness of the game.
 
-User: `Endye`
+User: `name`
 
-![image1]([img]https://i.imgur.com/jMcVepJ.gif[/img])
+Bild einfügen
 
 User: `name`
 
-![image2](https://i.imgur.com/inxV0GM.gif)
+Bild einfügen
 
 ## What should be done?
 
