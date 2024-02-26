@@ -7,13 +7,13 @@ The term "teleport" is made up of "teleportation" and "port" and refers to the a
 
 The functionality of "teleport" hacks usually involves modifying the game code to bypass the usual restrictions on movement and positioning. This allows the player to teleport almost anywhere on the map without having to follow the normal game mechanics. This allows players to act unexpectedly and quickly, making it difficult for their enemies to predict or prepare for their movements.
 
-User: `vivoyt`
+User: `NxyNoctis`
 
-Bild einfügen
+![image1](https://i.imgur.com/hmHQFqh.gif)
 
-User: `name`
+User: `Its__Tomer12321`
 
-Bild einfügen
+![image2](https://i.imgur.com/inxV0GM.gif)
 
 ## What should be done?
 
