@@ -9,13 +9,13 @@ The functionality of "anti-knockback" mods often involves modifying the game cod
 
 The use of "anti-knockback" can disrupt the balance of the game and affect fair competition, as players with this modification may be able to survive or avoid attacks more easily, leading to an unbalanced power ratio in PvP battles.
 
-User: `NxyNoctis`
+User: `name`
 
-![image1](https://i.imgur.com/hmHQFqh.gif)
+Bild einfügen
 
-User: `Its__Tomer12321`
+User: `name`
 
-![image2](https://i.imgur.com/inxV0GM.gif)
+Bild einfügen
 
 ## What should be done?
 
