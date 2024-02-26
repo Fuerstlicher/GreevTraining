@@ -3,7 +3,7 @@
 
 "Anti-knockback" is a term used in the Minecraft community to describe a specific type of modification or hack that alters game mechanics to give players an unfair advantage in fighting situations. Essentially, it reduces or eliminates the knockback effect that a player normally suffers when hit by an attack.
 
-The term "anti-knockback" indicates that this modification reduces or removes the normal knockback effect of attacks on the player character. This means that the player will experience less or no movement after an attack, allowing them to defend themselves more effectively or continue attacks without being affected by the knockback.
+The term "anti-knockback" indicates that this modification reduces or removes the normal knockback effect of attacks on the player. This means that the player will experience less or no movement after an attack, allowing them to defend themselves more effectively or continue attacks without being affected by the knockback.
 
 The functionality of "anti-knockback" mods often involves modifying the game code to manipulate the effects of attacks on the player character. This allows players to better absorb or avoid attacks by not being knocked away from their original positions.
 
